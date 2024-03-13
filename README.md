@@ -35,7 +35,7 @@ BASS
 # Running scripts
 
 ## CryoNuseg
-We take the experiment with the 1/8 labeled images for example.
+We take the experiment with the 1/2 labeled images for example.
 
 First, to train the supervised model, run:
 ```bash
